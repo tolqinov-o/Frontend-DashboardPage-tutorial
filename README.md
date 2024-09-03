@@ -1,10 +1,18 @@
-<img width="100%" src="./DashboardPage/img/main.gif" alt="Frontend-Dashboard-Page-Tutorials" />
+<img width="100%" src="./DashboardPage-1/img/main.gif" alt="Frontend-Dashboard-Page-Tutorials" />
 
 # Frontend-Dashboard-Page-Tutorials
 My_Frontend || Dashboard-Page || 10 - Tutorials
 
 ## All DashboardPage-tutorials
- - [DashboardPage - 1](https://github.com/tolqinov-o/Frontend-DashboardPage-tutorial/tree/main/Sign-up-tutorial)
+
+<table>
+<tr>
+<td>
+◆ <a href="https://github.com/tolqinov-o/Frontend-DashboardPage-tutorial/tree/main/DashboardPage-1" target="_blank">Dashboard Page Tutorial - 1</a><br>
+◆ <a href="https://github.com/tolqinov-o/Frontend-DashboardPage-tutorial/tree/main/DashboardPage-2" target="_blank">Dashboard Page Tutorial - 2</a><br>
+</td>
+</tr>
+</table>
 
 
 ## Tech Stack
@@ -12,6 +20,8 @@ My_Frontend || Dashboard-Page || 10 - Tutorials
 - HTML
 - CSS
 - JavaScript
+- Bootstrap
+- Responsive
 
 ## Authors
 
@@ -19,4 +29,11 @@ My_Frontend || Dashboard-Page || 10 - Tutorials
 
 ### All RegisterPages Demo
 
-- [DashboardPage - 1 || Live Demo](https://dashboard-page-tutorial.netlify.app)
+<table>
+<tr>
+<td>
+◆ <a href="https://dashboard-page-tutorial.netlify.app" target="_blank">Dashboard Page Tutorial - 1 || Live Demo</a><br>
+◆ <a href="https://dashboard-page-tutorial-1.netlify.app" target="_blank">Dashboard Page Tutorial - 2 || Live Demo</a><br>
+</td>
+</tr>
+</table>
