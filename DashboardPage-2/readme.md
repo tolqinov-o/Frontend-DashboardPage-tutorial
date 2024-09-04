@@ -21,7 +21,7 @@ My_Frontend || Dashboard-Page || 2 - Tutorial
 
 - HTML
 - CSS
-- Bootstrap
+- Bootstrap5
 - JavaScript
 - Responsive
 
@@ -29,8 +29,8 @@ My_Frontend || Dashboard-Page || 2 - Tutorial
 
 - [T.Oqilbek](https://www.github.com/tolqinov-o)
 
-### My RegisterPage Demo Link
+### My DashboardPage Demo Link
 
 ```
-    https://dashboard-page-tutorial-1.netlify.app
+https://dashboard-page-tutorial-1.netlify.app
 ```
