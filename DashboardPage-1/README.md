@@ -23,8 +23,8 @@ My_Frontend || Dashboard-Page || 1 - Tutorial
 
 - [T.Oqilbek](https://www.github.com/tolqinov-o)
 
-### My RegisterPage Demo Link
+### My DashboardPage Demo Link
 
 ```
-    https://dashboard-page-tutorial.netlify.app
+https://dashboard-page-tutorial.netlify.app
 ```
