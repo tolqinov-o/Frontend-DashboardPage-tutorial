@@ -1,31 +1,5 @@
 //Items
-export const cards = [
-    {
-        id: 1,
-        img: "./img/Project/project1.jpg",
-        projectName: "Dashboard Page - 1",
-        projectDemo: "https://dashboard-page-tutorial.netlify.app",
-        projectCode: "https://github.com/tolqinov-o/Frontend-DashboardPage-tutorial/tree/main/DashboardPage-1",
-    },
-    {
-        id: 2,
-        img: "./img/Project/project2.jpg",
-        projectName: "Dashboard Page - 2",
-        projectDemo: "https://dashboard-page-tutorial-1.netlify.app",
-        projectCode: "https://github.com/tolqinov-o/Frontend-DashboardPage-tutorial/tree/main/DashboardPage-2",
-    },
-    {
-        id: 3,
-        img: "./img/Project/project3.jpg",
-        projectName: "Dashboard Page - 3",
-        projectDemo: "https://dashboard-page-tutorial-2.netlify.app",
-        projectCode: "https://github.com/tolqinov-o/Frontend-DashboardPage-tutorial/tree/main/DashboardPage-3",
-    },
-    {
-        id: 4,
-        img: "./img/Project/project4.jpg",
-        projectName: "Dashboard Page - 4",
-        projectDemo: "https://dashboard-page-tutorial-3.netlify.app",
+"https://dashboard-page-tutorial-3.netlify.app",
         projectCode: "https://github.com/tolqinov-o/Frontend-DashboardPage-tutorial/tree/main/DashboardPage-4",
     },
     {
@@ -53,17 +27,8 @@ export const cards = [
         id: 8,
         img: "./img/Project/project8.jpg",
         projectName: "Dashboard Page - 8",
-        projectDemo: "https://dashboard-page-tutorial-7.netlify.app",
-        projectCode: "https://github.com/tolqinov-o/Frontend-DashboardPage-tutorial/tree/main/DashboardPage-8",
-    },
-    {
-        id: 9,
-        img: "./img/Project/project9.jpg",
-        projectName: "Dashboard Page - 9",
-        projectDemo: "https://dashboard-page-tutorial-8.netlify.app",
-        projectCode: "https://github.com/tolqinov-o/Frontend-DashboardPage-tutorial/tree/main/DashboardPage-9",
-    },
-    {
+        projectDemo: "https://da
+            
         id: 10,
         img: "./img/Project/project10.jpg",
         projectName: "Dashboard Page - 10",
